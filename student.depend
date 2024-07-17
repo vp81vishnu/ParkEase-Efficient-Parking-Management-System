@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1721219674 source:c:\users\vp81v\documents\student\main.cpp
+	<iostream>
+	<string>
+	"ret_veh.h"
+
+1721189482 c:\users\vp81v\documents\student\ret_veh.h
+	<iostream>
+	<string>
+	"check_full.h"
+
+1721189704 c:\users\vp81v\documents\student\check_full.h
+	<iostream>
+	<string>
+	"User.h"
+
+1721188856 c:\users\vp81v\documents\student\user.h
+	<iostream>
+	<string>
+
+1721188408 source:c:\users\vp81v\documents\student\src\login.cpp
+	"Login.h"
+
+1721188408 c:\users\vp81v\documents\student\include\login.h
+
+1721188856 source:c:\users\vp81v\documents\student\user.cpp
+	<iostream>
+	<string>
+	"User.h"
+
+1721189482 source:c:\users\vp81v\documents\student\ret_veh.cpp
+	<iostream>
+	<string>
+	"ret_veh.h"
+
+1721221237 source:c:\users\vp81v\documents\student\check_full.cpp
+	<iostream>
+	<string>
+	"check_full.h"
+
