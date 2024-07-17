@@ -1,12 +1,22 @@
 ParkEase: Efficient Parking Management System
+
+
+
 ParkEase is a C++ application designed to streamline the management of parking spaces for bikes. It offers features for registering bikes, retrieving bikes, checking specific slots, managing family parking, and displaying real-time slot availability.
 
+
+
+
 FEATURES:         
+
      Register a Bike: Automatically assigns available slots.
      Retrieve a Bike: Retrieves bikes using registration numbers.
      Check Specific Slot: Registers bikes in specific available slots.
      Family Parking: Manages parking for multiple bikes in consecutive slots.
      Show All Available Slots: Displays current slot statuses.
+
+
+
 
 CLASS STRUCTURE:
 
@@ -21,6 +31,8 @@ CLASS STRUCTURE:
 4. family_parking Class
        #Inherits from check_full.
        #Methods to manage parking for multiple bikes in consecutive slots.
+
+
 
 
 Installation:
