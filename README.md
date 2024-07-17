@@ -20,15 +20,23 @@ FEATURES:
 
 CLASS STRUCTURE:
 
-1. User Class
+1. User Class:
+
+
        #Base class containing attributes and methods for managing user status and vehicle information.
-2. check_full Class
+2. check_full Class:
+
+
        #Inherits from User.
        #Methods to check slot availability and print the status of all parking slots.
-3. ret_veh Class
+3. ret_veh Class:
+
+
        #Inherits from check_full.
        #Methods for retrieving bikes based on their registration number and checking specific slots for registration.
-4. family_parking Class
+4. family_parking Class:
+
+
        #Inherits from check_full.
        #Methods to manage parking for multiple bikes in consecutive slots.
 
