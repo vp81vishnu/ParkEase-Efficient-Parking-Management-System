@@ -88,15 +88,4 @@ googletest
 
 ---
 
-USAGE:
-
-Upon launching the application, a user-friendly menu will guide you through various options for managing parking slots:
-
-1.Register a bike: Assigns an available slot to a bike.
-2.Retrieve a bike: Retrieves a bike from the parking lot by entering its registration number.
-3.Check specific slot: Allows checking and registering a bike in a specific slot if available.
-4.Family parking: Registers multiple bikes in consecutive slots.
-5.Show all available slots: Displays the status of all parking slots.
-6.Exit: Exits the application.
-
 
