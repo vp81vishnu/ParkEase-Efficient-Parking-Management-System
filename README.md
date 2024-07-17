@@ -1,4 +1,10 @@
-ParkEase: Efficient Parking Management System
+<p align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/6295/6295417.png" width="100" />
+</p>
+<p align="center">
+    <h1 align="center">PARKEASE-EFFICIENT-PARKING-MANAGEMENT-SYSTEM</h1>
+
+<hr>
 
 
 
@@ -43,21 +49,44 @@ CLASS STRUCTURE:
 
 
 
-Installation:
 
-1.Clone the repository:
+###  Installation
 
-git clone https://github.com/your-username/parking-management-system.git
-cd parking-management-system
+1. Clone the ParkEase-Efficient-Parking-Management-System repository:
 
-2.Compile the Code:
+```sh
+git clone https://github.com/vp81vishnu/ParkEase-Efficient-Parking-Management-System
+```
 
-g++ -o parking_management main.cpp
+2. Change to the project directory:
 
-3.Run the Application:
+```sh
+cd ParkEase-Efficient-Parking-Management-System
+```
 
-./parking_management
+3. Install the dependencies:
 
+```sh
+g++ -o myapp main.cpp
+```
+
+###  Running ParkEase-Efficient-Parking-Management-System
+
+Use the following command to run ParkEase-Efficient-Parking-Management-System:
+
+```sh
+./myapp
+```
+
+###  Tests
+
+To execute tests, run:
+
+```sh
+googletest
+```
+
+---
 
 USAGE:
 
